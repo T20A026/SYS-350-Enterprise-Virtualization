@@ -1,1 +1,1 @@
-Welcome to my SYS-350 Tech Journal
+Welcome to my SYS-350 Tech Journal!
