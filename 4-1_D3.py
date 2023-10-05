@@ -76,8 +76,6 @@ for child in content.rootFolder.childEntity:
 
         for vm in vmlist:
             vm_names.append(vm.name)
-        else:
-            print(f"Could Not Find VM'{searchName}'")
 
 #Retrive VmContent Via Name
 for vm in vm_names:
